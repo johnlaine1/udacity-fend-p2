@@ -16,6 +16,7 @@ body {
 .card-picture {
   margin-left: 10px;
   margin-right: 10px;
+  width: 300px;
 }
 
 .card-desc-wrapper {
