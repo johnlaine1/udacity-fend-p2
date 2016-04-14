@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif ;
 }
+
 .card-wrapper {
   width: 320px;
   border: 1px gray solid;
@@ -30,15 +31,15 @@ body {
 .card-interesting-fact {
   font-style: italic;
 }
-.card-facts li span {
+
+.card-facts span {
     font-weight: bold;
 }
 
 .card-facts {
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .card-facts li {
   list-style: none;
 }
-
