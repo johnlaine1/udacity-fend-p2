@@ -42,4 +42,4 @@ your favorite animal. For the image, you will want use an image with a width of 
 image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image
 might end up being squished or distorted. Later, we’ll talk about how you can fix this problem using
 responsive images. Also, don't forget to change the image's alt attribute to the name of your animal.
-So, alt="clownfish" should be replaced with alt="name-of-your-animal"
+So, alt="clownfish" should be replaced with alt="name-of-your-animal".
